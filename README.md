@@ -2,7 +2,8 @@
 
 Voici un petit repo regroupant les algorithmes des précedents sujets du BTS SIO option SLAM.
 
-Lien vers un site regroupant toutes les informations et documentations pour le BTS SIO.
+Lien vers un site regroupant toutes les informations et documentations pour le BTS SIO : 
+https://bts-sio-formation.com/
 ## Listes des algorithmes
 - Sujet "Matrice" :
 	- Algo : 'matrice_algo.py'
